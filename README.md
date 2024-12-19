@@ -35,7 +35,7 @@ For different input combinations generate the timing diagram.
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
  Developed by:R.DEEPIKA   RegisterNumber:24900220
-*/```
+```
 module brt(
 input wire clk,
 output reg [3:0]count 
@@ -48,6 +48,7 @@ always@(posedge clk)begin
 		 end
 		 endmodule
 ```
+*/
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
@@ -56,7 +57,8 @@ always@(posedge clk)begin
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
-![image](https://github.com/user-attachments/assets/61dca09c-d279-4177-9d9b-b75731ff456f)
+
+![image](https://github.com/user-attachments/assets/40d67704-6367-45c6-ab9a-833472775ff9)
 
 
 **RESULTS**9
